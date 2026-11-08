@@ -14,8 +14,4 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
 
-`YOLO` · `CVAT` · `Roboflow` · `Unix` · `Windows` · `Wine` · `PortProton` · `vibe coding`
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Valeogamer&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Valeogamer&layout=compact&theme=github_dark&hide_border=true)
+`YOLO` · `CVAT` · `Roboflow` · `Unix` · `Windows` · `Wine` · `PortProton` · `Vibe coding` · `AI Tools` · `Videogame` · `Comics/Manga` 

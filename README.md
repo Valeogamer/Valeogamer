@@ -14,4 +14,4 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
 
-`YOLO` · `CVAT` · `Roboflow` · `Unix` · `Windows` · `Wine` · `PortProton` · `Vibe coding` · `AI Tools` · `Videogame` · `Comics/Manga` 
+`YOLO` · `CVAT` · `Roboflow` · `Unix` · `Windows` · `Wine` · `PortProton` · `Vibe coding` · `AI Tools` · `Videogames` · `Comics/Manga` 
